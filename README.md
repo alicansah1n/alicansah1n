@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Ali Can Şahin</h2>
 <p align="center">
-🎓 Senior Software Engineering student at Istanbul Beykent University<br>
+🎓 Software Engineering student at Istanbul Beykent University<br>
 💻 Passionate about C#, ASP.NET Core MVC, and .NET ecosystem<br>
 🚀 Eager to learn, collaborate, and create value in corporate software development environments.
 </p>
