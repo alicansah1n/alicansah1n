@@ -32,8 +32,4 @@
 
 ---
 
-### 📊 Ali Can Şahin's GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alicansah1n&show_icons=true&theme=default)
-
----
