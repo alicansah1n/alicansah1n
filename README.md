@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋, I'm Ali Can Şahin</h2>
 <p align="center">
 🎓 Senior Software Engineering student at Istanbul Beykent University <br>
-🧠 Equipped with strong analytical thinking and a passion for continuous learning and self-development.<br>
-🤝 Highly adaptable with strong communication skills and a collaborative spirit, enabling effective and harmonious work in corporate environments.
+ Equipped with strong analytical thinking and a passion for continuous learning and self-development.<br>
+ Highly adaptable with strong communication skills and a collaborative spirit, enabling effective and harmonious work in corporate environments.
 </p>
 
 ---
