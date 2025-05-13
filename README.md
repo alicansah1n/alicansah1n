@@ -9,7 +9,7 @@
 
 ### 📫 How to reach me
 
-- 📧 [alican764545@gmail.com](mailto:alican764545@gmail.com)  
+- 📧 [alican.sahin.tr@gmail.com](mailto:alican764545@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ali-can-şahin-29484b240/)  
 - 🔗 [GitHub](https://github.com/alicansah1n)  
 - 📷 [Instagram](https://www.instagram.com/alicansah1n?igsh=am13Y3pieGc1c21k)  
