@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Ali Can Şahin  
 
-🎓 Senior Software Engineering student at **Istanbul Beykent University**  
-💻 Passionate about **Artificial Intelligence, Machine Learning, Backend Development, and Software Testing**  
-🚀 Continuously learning and building projects on **AI, Data Science, and Scalable Web Applications**  
+🎓 Senior Software Engineering student at Istanbul Beykent University
+💻 Interested in Artificial Intelligence, Machine Learning, Backend Development, and Software Testing
+🚀 Continuously learning and building projects on AI, Data Science, and scalable web applications
 
 ---
 
 ## 🧑‍💼 About Me
 - 🔹 Strong interest in **AI & Machine Learning**, currently working on projects in these domains  
 - 🔹 Experienced in **.NET Core, SQL Server, Entity Framework, C#, Java, Python**  
-- 🔹 Hands-on practice with **API Development, Authentication (JWT), and Cloud Deployments**  
 - 🔹 Team player with strong communication skills, eager to contribute to impactful tech solutions  
 
 ---
@@ -48,11 +47,10 @@
 ---
 
 ## 🎯 Current Focus
-- 🤖 AI & Machine Learning applications in **business and supply chain management**  
+- 🤖 Developing skills in AI & Machine Learning applications within business and finance**  
 - 🛠 Building **scalable APIs with .NET Core**  
-- ☁️ Exploring **MLOps, Cloud (Azure, Docker, Kubernetes)**  
-- 🔍 Data-driven decision making with **SQL & Python**  
+- 🔍 Working on data-driven decision support systems with **SQL & Python**  
 
 ---
 
-⭐️ *“Passionate about creating impactful technology that makes a difference.”*
+⭐️ *“Eager to build technologies that make a real-world impact.”*
