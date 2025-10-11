@@ -87,17 +87,15 @@
 
 ---
 
----
-
-## 🎯 Şu An Üzerinde Çalıştıklarım
-
 <pre>
+<code>
 current_focus = {
     "learning": ["Deep Learning", "MLOps", "Cloud Architecture"],
     "building": ["AI-Powered Financial Analysis Tools", "Scalable REST APIs"],
     "exploring": ["Computer Vision", "NLP Applications", "Microservices"],
     "goal": "Creating AI solutions that solve real-world problems 🚀"
 }
+</code>
 </pre>
 
 ---
