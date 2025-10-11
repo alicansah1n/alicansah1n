@@ -25,7 +25,6 @@
 <br clear="right"/>
 
 ---
-
 ### 🛠️ Teknoloji Yığınım
 
 <details open>
