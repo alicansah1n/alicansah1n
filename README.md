@@ -19,7 +19,7 @@
 - 🏗️ Backend Geliştirme (.NET Core)
 - 📊 Veri Bilimi & Analitik
 
-💡 **Şu An:** AI/ML tabanlı backend çözümleri ve veri analitiği projeleri geliştiriyorum
+💡 **Şu An:** AI/ML tabanlı backend çözümleri ve veri analitiği projeleri geliştiriyor ve çeşitli eğitimler alarak kendimi geliştiriyorum.
 
 
 <br clear="right"/>
@@ -114,7 +114,6 @@
 ### 📚 Öğreniyorum
 - **Generative AI & LLM**: GPT modelleri, prompt engineering ve fine-tuning teknikleri
 - **MLOps Pipeline**: Model deployment, monitoring ve CI/CD süreçleri
-- **Diffusion Models**: Stable Diffusion, DALL-E ve görsel üretim teknikleri
 - **RAG Systems**: Retrieval-Augmented Generation ve vector database uygulamaları
 
 ### 🛠️ Geliştiriyorum
