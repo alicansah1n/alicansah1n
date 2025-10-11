@@ -13,7 +13,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 👨‍💻 Hakkımda
-
 🎓 **İstanbul Beykent Üniversitesi** - Yazılım Mühendisliği (Son Sınıf)
 
 🔬 **Odak Alanlarım:**
@@ -40,6 +39,8 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </details>
@@ -53,6 +54,10 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random_Forest-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </details>
 
@@ -65,6 +70,29 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔹 Analytics & Modeling</b></summary>
+<br>
+  
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-00599C?style=for-the-badge&logo=databricks&logoColor=white)
+![Operations Research](https://img.shields.io/badge/Operations_Research-0078D4?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Mathematical Modeling](https://img.shields.io/badge/Mathematical_Modeling-4285F4?style=for-the-badge&logo=wolframmathematica&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big_Data-FF6600?style=for-the-badge&logo=apache&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-FF6600?style=for-the-badge&logo=apache-spark&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔹 Soft Skills</b></summary>
+<br>
+  
+![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-00C7B7?style=for-the-badge&logo=lighthouse&logoColor=white)
+![Teamwork](https://img.shields.io/badge/Teamwork-2088FF?style=for-the-badge&logo=github&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![English](https://img.shields.io/badge/English-0052CC?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 </details>
 
