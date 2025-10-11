@@ -1,56 +1,80 @@
-# 👋 Hi, I'm Ali Can Şahin  
+# 👋 Merhaba, Ben Ali Can Şahin
 
-🎓 Senior Software Engineering student at Istanbul Beykent University
-💻 Interested in Artificial Intelligence, Machine Learning, Backend Development, and Software Testing
-🚀 Continuously learning and building projects on AI, Data Science, and scalable web applications
+<div align="center">
+  
+**🎓 Yazılım Mühendisliği Son Sınıf Öğrencisi** | İstanbul Beykent Üniversitesi
 
----
+*Yapay Zeka ve Yazılım Geliştirme tutkusuyla, gerçek dünyaya etki edecek teknolojiler üretiyorum.*
 
-## 🧑‍💼 About Me
-- 🔹 Strong interest in **AI & Machine Learning**, currently working on projects in these domains  
-- 🔹 Experienced in **.NET Core, SQL Server, Entity Framework, C#, Java, Python**  
-- 🔹 Team player with strong communication skills, eager to contribute to impactful tech solutions  
+</div>
 
 ---
 
-## 🌐 How to Reach Me  
-📧 [alican.sahin.tr@gmail.com](mailto:alican.sahin.tr@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/alicansahinn/)  
-💻 [GitHub](https://github.com/alicansah1n)  
+## 🚀 Hakkımda
 
+Yazılım dünyasında kendimi sürekli geliştiren, öğrenmeye aç bir geliştiriciyim. Yapay zeka ve makine öğrenmesi alanlarında uzmanlaşırken, backend geliştirme ve yazılım test süreçlerinde de deneyim kazanıyorum.
 
----
-
-## 🚀 Languages & Tools  
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-</p>
+**İlgi Alanlarım:**
+- 🤖 Yapay Zeka & Makine Öğrenmesi
+- 🏗️ Backend Geliştirme & API Tasarımı
+- 📊 Veri Bilimi & Analitik
+- ✅ Yazılım Test & Kalite Güvence
 
 ---
 
-## 📊 GitHub Stats  
+## 💼 Teknik Yetenekler
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alicansah1n&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicansah1n&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>
+### Backend & Veritabanı
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Programlama & AI/ML
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Araçlar
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🎯 Current Focus
-- 🤖 Developing skills in AI & Machine Learning applications within business and finance**  
-- 🛠 Building **scalable APIs with .NET Core**  
-- 🔍 Working on data-driven decision support systems with **SQL & Python**  
+## 📈 GitHub İstatistiklerim
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alicansah1n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicansah1n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165"/>
+</div>
 
 ---
 
-⭐️ *“Eager to build technologies that make a real-world impact.”*
+## 🎯 Şu Anda Üzerinde Çalıştıklarım
+
+- 🧠 **AI & ML:** İş dünyası ve finans sektöründe yapay zeka uygulamaları geliştiriyorum
+- ⚡ **Backend:** .NET Core ile ölçeklenebilir ve performanslı API'ler tasarlıyorum
+- 📊 **Veri Odaklı Sistemler:** SQL & Python kullanarak karar destek sistemleri oluşturuyorum
+
+---
+
+## 📬 İletişim
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alican.sahin.tr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicansahinn/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alicansah1n)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 *"Teknoloji ile gerçek dünyaya değer katan çözümler üretmek için buradayım."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=alicansah1n&color=58A6FF&style=for-the-badge)
+
+</div>
