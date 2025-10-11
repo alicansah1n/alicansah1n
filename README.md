@@ -1,10 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Can%20Şahin&fontSize=42&fontAlignY=32&desc=AI%20Engineer%20|%20Software%20Developer&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
-
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+AI-Powered+Solutions+🤖;Passionate+about+Machine+Learning+📊;Backend+%26+Full+Stack+Developer+💻)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Learning+AI-Powered+Solutions+🚀;Passionate+about+AI,+Generative+AI+%26+Machine+Learning+🤖;Software+Engineering+%26+AI+Developer+👨‍💻)](https://git.io/typing-svg)
   
 </div>
 
