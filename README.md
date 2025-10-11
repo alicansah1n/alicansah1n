@@ -55,8 +55,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random_Forest-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </details>
