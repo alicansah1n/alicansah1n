@@ -87,8 +87,6 @@
 
 ---
 
----
-
 ## 🎯 Şu An Üzerinde Çalıştıklarım
 ```python
 current_focus = {
@@ -97,8 +95,6 @@ current_focus = {
     "exploring": ["Computer Vision", "NLP Applications", "Microservices"],
     "goal": "Creating AI solutions that solve real-world problems 🚀"
 }
-
----
 
 ### 📬 Benimle İletişime Geçin
 
