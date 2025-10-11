@@ -19,11 +19,10 @@
 - 🤖 Yapay Zeka & Makine Öğrenmesi
 - 🏗️ Backend Geliştirme (.NET Core)
 - 📊 Veri Bilimi & Analitik
-- 🧪 Yazılım Test Otomasyonu
 
-💡 **Şu An:** Finans ve iş dünyasında AI uygulamaları geliştiriyorum
+💡 **Şu An:** AI/ML tabanlı backend çözümleri ve veri analitiği projeleri geliştiriyorum
 
-🌱 **Öğreniyorum:** Deep Learning, MLOps, Mikroservis Mimarileri
+🌱 **Öğreniyorum:** Generative AI, API Architecture, MLOps, Cloud Systems
 
 <br clear="right"/>
 
