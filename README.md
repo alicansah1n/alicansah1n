@@ -1,61 +1,100 @@
-# 👋 Merhaba, Ben Ali Can Şahin
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Can%20Şahin&fontSize=42&fontAlignY=32&desc=AI%20Engineer%20|%20Software%20Developer&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+</div>
 
 <div align="center">
   
-**🎓 Yazılım Mühendisliği Son Sınıf Öğrencisi** | İstanbul Beykent Üniversitesi
-
-*Yapay Zeka ve Yazılım Geliştirme tutkusuyla, gerçek dünyaya etki edecek teknolojiler üretiyorum.*
-
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;Passionate+about+Machine+Learning+%F0%9F%93%8A;Backend+%26+Full+Stack+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
+  
 </div>
 
 ---
 
-## 🚀 Hakkımda
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-Yazılım dünyasında kendimi sürekli geliştiren, öğrenmeye aç bir geliştiriciyim. Yapay zeka ve makine öğrenmesi alanlarında uzmanlaşırken, backend geliştirme ve yazılım test süreçlerinde de deneyim kazanıyorum.
+### 👨‍💻 Hakkımda
 
-**İlgi Alanlarım:**
+🎓 **İstanbul Beykent Üniversitesi** - Yazılım Mühendisliği (Senior)
+
+🔬 **Odak Alanlarım:**
 - 🤖 Yapay Zeka & Makine Öğrenmesi
-- 🏗️ Backend Geliştirme & API Tasarımı
+- 🏗️ Backend Geliştirme (.NET Core)
 - 📊 Veri Bilimi & Analitik
-- ✅ Yazılım Test & Kalite Güvence
+- 🧪 Yazılım Test Otomasyonu
+
+💡 **Şu An:** Finans ve iş dünyasında AI uygulamaları geliştiriyorum
+
+🌱 **Öğreniyorum:** Deep Learning, MLOps, Mikroservis Mimarileri
+
+<br clear="right"/>
 
 ---
 
-## 💼 Teknik Yetenekler
+### 🛠️ Teknoloji Yığınım
 
-### Backend & Veritabanı
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+<details open>
+<summary><b>🔹 Backend & Framework</b></summary>
+<br>
+  
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Programlama & AI/ML
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+</details>
+
+<details open>
+<summary><b>🔹 AI & Data Science</b></summary>
+<br>
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Araçlar
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+</details>
+
+<details open>
+<summary><b>🔹 Database & Tools</b></summary>
+<br>
+  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+</details>
 
 ---
 
-## 📈 GitHub İstatistiklerim
+### 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alicansah1n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicansah1n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alicansah1n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicansah1n&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alicansah1n&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alicansah1n&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🎯 Şu Anda Üzerinde Çalıştıklarım
-
-- 🧠 **AI & ML:** İş dünyası ve finans sektöründe yapay zeka uygulamaları geliştiriyorum
-- ⚡ **Backend:** .NET Core ile ölçeklenebilir ve performanslı API'ler tasarlıyorum
-- 📊 **Veri Odaklı Sistemler:** SQL & Python kullanarak karar destek sistemleri oluşturuyorum
+### 🎯 Şu An Üzerinde Çalıştıklarım
+```python
+current_focus = {
+    "learning": ["Deep Learning", "MLOps", "Cloud Architecture"],
+    "building": ["AI-Powered Financial Analysis Tools", "Scalable REST APIs"],
+    "exploring": ["Computer Vision", "NLP Applications", "Microservices"],
+    "goal": "Creating AI solutions that solve real-world problems 🚀"
+}
 
 ---
 
