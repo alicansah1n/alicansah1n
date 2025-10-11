@@ -87,7 +87,10 @@
 
 ---
 
-### 🎯 Şu An Üzerinde Çalıştıklarım
+---
+
+## 🎯 Şu An Üzerinde Çalıştıklarım
+```python
 current_focus = {
     "learning": ["Deep Learning", "MLOps", "Cloud Architecture"],
     "building": ["AI-Powered Financial Analysis Tools", "Scalable REST APIs"],
