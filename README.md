@@ -21,7 +21,6 @@
 
 💡 **Şu An:** AI/ML tabanlı backend çözümleri ve veri analitiği projeleri geliştiriyorum
 
-🌱 **Öğreniyorum:** Generative AI, API Architecture, MLOps, Cloud Systems
 
 <br clear="right"/>
 
@@ -110,15 +109,17 @@
 </div>
 
 ---
-
-
 ## 🎯 Şu An Üzerinde Çalıştıklarım
 
-**Learning:** Deep Learning, MLOps, Cloud Architecture  
-**Building:** AI-Powered Financial Analysis Tools, Scalable REST APIs  
-**Exploring:** Computer Vision, NLP Applications, Microservices  
-**Goal:** Creating AI solutions that solve real-world problems 🚀
+### 📚 Öğreniyorum
+- **Generative AI & LLM**: GPT modelleri, prompt engineering ve fine-tuning teknikleri
+- **MLOps Pipeline**: Model deployment, monitoring ve CI/CD süreçleri
+- **Diffusion Models**: Stable Diffusion, DALL-E ve görsel üretim teknikleri
+- **RAG Systems**: Retrieval-Augmented Generation ve vector database uygulamaları
 
+### 🛠️ Geliştiriyorum
+- **AI Tabanlı Veri Analiz Araçları**: Python ve .NET Core ile yapay zeka destekli analiz sistemleri
+- **Makine Öğrenmesi Modelleri**: Finansal tahminleme ve sınıflandırma projeleri
 
 ---
 
@@ -142,7 +143,7 @@
 
 <div align="center">
   
-### 💡 *"Teknoloji ile gerçek dünyaya değer katan çözümler üretmek için buradayım."*
+### 💡 *Yapay zeka ve modern yazılım teknolojilerini kullanarak **gerçek dünya problemlerine yenilikçi çözümler** üretmek ve **ölçeklenebilir, sürdürülebilir sistemler** inşa etmek 🚀*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
