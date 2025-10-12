@@ -36,7 +36,6 @@
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Dependency Injection](https://img.shields.io/badge/Dependency_Injection-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </details>
