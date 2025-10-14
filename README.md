@@ -115,8 +115,8 @@
 - **RAG Systems**: Retrieval-Augmented Generation ve vector database uygulamaları
 
 ### 🛠️ Geliştiriyorum
-- **AI Tabanlı Veri Analiz Araçları**: Python ve .NET Core ile yapay zeka destekli analiz sistemleri
-- **Makine Öğrenmesi Modelleri**: Finansal tahminleme ve sınıflandırma projeleri
+- **AI Tabanlı Veri Analiz Araçları**: RAG Chatbot, Python ve .NET Core ile yapay zeka destekli analiz sistemleri
+- **Makine Öğrenmesi Modelleri**: Sınıflandırma ve regresyon projeleri
 
 ---
 
