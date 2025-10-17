@@ -140,8 +140,6 @@
 
 <div align="center">
   
-### 💡 *Yapay zeka ve modern yazılım teknolojilerini kullanarak **gerçek dünya problemlerine yenilikçi çözümler** üretmek ve **ölçeklenebilir, sürdürülebilir sistemler** inşa etmek 🚀*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
