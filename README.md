@@ -92,16 +92,13 @@
 ---
 
 ### 📊 GitHub İstatistiklerim
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alicansah1n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicansah1n&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicansah1n&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&hide=Jupyter%20Notebook"/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alicansah1n&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alicansah1n&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
