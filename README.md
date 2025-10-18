@@ -18,6 +18,7 @@
 - 🤖 Yapay Zeka & Makine Öğrenmesi
 - 📊 Veri Bilimi & Analitik
 - 🤖 Genarative AI
+  
 💡 **Şu An:** AI/ML tabanlı backend çözümleri ve veri analitiği projeleri geliştiriyor ve çeşitli eğitimler alarak kendimi geliştiriyorum.
 
 
