@@ -14,12 +14,13 @@
 ### 👨‍💻 Hakkımda
 🎓 **İstanbul Beykent Üniversitesi** - Yazılım Mühendisliği
 
-🔬 **Odak Alanlarım:**
-- 🤖 Yapay Zeka & Makine Öğrenmesi
-- 📊 Veri Bilimi & Analitik
-- 🤖 Generative AI
+🔬 **İlgilendiğim Alanlar:**
+- 🤖 Yapay Zeka & Generative AI
+- 🧪 Yazılım Test Otomasyonu
+- 📊 Makine Öğrenmesi & Veri Bilimi
+- 🔄 Backend Geliştirme (.NET Core)
   
-💡 **Şu An:** AI/ML tabanlı backend çözümleri ve veri analitiği projeleri geliştiriyor ve çeşitli eğitimler alarak kendimi geliştiriyorum.
+💡 **Şu An Öğreniyorum:** RAG mimarileri, LangChain, Test Otomasyonu (Selenium), AI-powered test çözümleri ve MLOps süreçleri üzerinde aktif olarak çalışıyor ve kendimi sürekli geliştiriyorum.
 
 
 <br clear="right"/>
@@ -32,60 +33,63 @@
 <br>
   
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🔹 AI & Data Science</b></summary>
+<summary><b>🔹 AI & Machine Learning</b></summary>
 <br>
   
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Architecture-FF6B6B?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🔹 Database & Tools</b></summary>
+<summary><b>🔹 Test & Automation</b></summary>
+<br>
+  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Software Testing](https://img.shields.io/badge/Software_Testing-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white)
+![API Testing](https://img.shields.io/badge/API_Testing-009688?style=for-the-badge&logo=postman&logoColor=white)
+![AI Testing](https://img.shields.io/badge/AI_Testing-6366F1?style=for-the-badge&logo=ai&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔹 Database & DevOps</b></summary>
 <br>
   
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔹 Data Visualization & Tools</b></summary>
+<br>
+  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔹 Analytics & Modeling</b></summary>
-<br>
-  
-![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-00599C?style=for-the-badge&logo=databricks&logoColor=white)
-![Operations Research](https://img.shields.io/badge/Operations_Research-0078D4?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Mathematical Modeling](https://img.shields.io/badge/Mathematical_Modeling-4285F4?style=for-the-badge&logo=wolframmathematica&logoColor=white)
-![Big Data](https://img.shields.io/badge/Big_Data-FF6600?style=for-the-badge&logo=apache&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-FF6600?style=for-the-badge&logo=apache-spark&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔹 Soft Skills</b></summary>
-<br>
-  
-![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-00C7B7?style=for-the-badge&logo=lighthouse&logoColor=white)
-![Teamwork](https://img.shields.io/badge/Teamwork-2088FF?style=for-the-badge&logo=github&logoColor=white)
-![Communication](https://img.shields.io/badge/Communication-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![English](https://img.shields.io/badge/English-0052CC?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 </details>
 
