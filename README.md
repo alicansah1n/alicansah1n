@@ -20,7 +20,7 @@
 - 📊 Makine Öğrenmesi & Veri Bilimi
 - 🔄 Backend Geliştirme (.NET Core)
   
-💡 **Şu An Öğreniyorum:** RAG mimarileri, LangChain, Test Otomasyonu (Selenium), AI-powered test çözümleri ve MLOps süreçleri üzerinde aktif olarak çalışıyor ve kendimi sürekli geliştiriyorum.
+💡 **Şu An Öğreniyorum:** RAG mimarileri, LangChain, MLOps süreçleri üzerinde aktif olarak çalışıyor ve kendimi sürekli geliştiriyorum.
 
 
 <br clear="right"/>
