@@ -16,7 +16,6 @@
 
 🔬 **İlgilendiğim Alanlar:**
 - 🤖 Yapay Zeka & Generative AI
-- 🧪 Yazılım Test Otomasyonu
 - 📊 Makine Öğrenmesi & Veri Bilimi
 - 🔄 Backend Geliştirme (.NET Core)
   
