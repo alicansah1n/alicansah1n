@@ -43,18 +43,12 @@ Lisans sürecimde **backend geliştirme** ve **yapay zeka destekli sistemler** �
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,ts,tailwind,vite,docker,git,github,sqlite,selenium&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,react,ts,tailwind&theme=dark&perline=6" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alicansah1n/alicansah1n/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alicansah1n/alicansah1n/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/alicansah1n/alicansah1n/output/github-snake-dark.svg" width="95%" />
-  </picture>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vite,docker,git,github,postgres,postman&theme=dark&perline=6" />
+  </a>
 </div>
 
 <br/>
