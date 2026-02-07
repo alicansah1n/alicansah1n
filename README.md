@@ -31,9 +31,9 @@ Lisans sürecimde **backend geliştirme** ve **yapay zeka destekli sistemler** �
 | Backend | Yapay Zeka & Veri | Frontend | DevOps & Test |
 |:-------:|:-----------------:|:--------:|:-------------:|
 | C# | Python | React | Git & GitHub |
-| ASP.NET Core | OpenAI / LLM | TypeScript | Docker |
-| Entity Framework | RAG / LangChain | Tailwind CSS | JIRA |
-| SQL Server | ChromaDB | Vite | Selenium |
+| ASP.NET Core | LLMs (OpenAI) | TypeScript | Docker |
+| Entity Framework Core | RAG Architecture | REST APIs | CI/CD |
+| SQL Server | Data Analysis & NLP | Web Standards (HTML/CSS) | Automated Testing |
 
 </div>
 
