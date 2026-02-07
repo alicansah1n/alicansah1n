@@ -1,132 +1,61 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Can%20Şahin&fontSize=42&fontAlignY=32&desc=%20Software%20Engineer%20|%20Software%20Developer&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
-</div>
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Learning+AI-Powered+Solutions+🚀;Generative+AI+%26+Machine+Learning+🤖;Software+Engineering+%26+AI+Developer+👨‍💻)](https://git.io/typing-svg)
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00bcd4,100:1db954&height=200&section=header&text=Ali%20Can%20Şahin&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineer&descSize=18&descAlignY=52&animation=fadeIn" width="100%"/>
 </div>
 
----
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-### 👨‍💻 Hakkımda
-🎓 **İstanbul Beykent Üniversitesi** - Yazılım Mühendisliği
-
-🔬 **İlgilendiğim Alanlar:**
-- 🤖 Yapay Zeka & Generative AI
-- 📊 Makine Öğrenmesi & Veri Bilimi
-- 🔄 Backend Geliştirme (.NET Core)
-  
-💡 **Şu An Öğreniyorum:** RAG mimarileri, LangChain, MLOps süreçleri üzerinde aktif olarak çalışıyor ve kendimi sürekli geliştiriyorum.
-
-
-<br clear="right"/>
-
----
-### 🛠️ Teknoloji Yığınım
-
-<details open>
-<summary><b>🔹 Backend & Framework</b></summary>
-<br>
-  
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔹 AI & Machine Learning</b></summary>
-<br>
-  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Architecture-FF6B6B?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔹 Test & Automation</b></summary>
-<br>
-  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Software Testing](https://img.shields.io/badge/Software_Testing-FF6B6B?style=for-the-badge&logo=checkmarx&logoColor=white)
-![API Testing](https://img.shields.io/badge/API_Testing-009688?style=for-the-badge&logo=postman&logoColor=white)
-![AI Testing](https://img.shields.io/badge/AI_Testing-6366F1?style=for-the-badge&logo=ai&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔹 Database & DevOps</b></summary>
-<br>
-  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔹 Data Visualization & Tools</b></summary>
-<br>
-  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-</details>
-
----
-
-## 🎯 Şu An Üzerinde Çalıştıklarım
-
-### 📚 Öğreniyorum
-- **Generative AI & LLM**: GPT modelleri, prompt engineering ve fine-tuning teknikleri
-- **MLOps Pipeline**: Model deployment, monitoring ve CI/CD süreçleri
-- **RAG Systems**: Retrieval-Augmented Generation ve vector database uygulamaları
-
-### 🛠️ Geliştiriyorum
-- **AI Tabanlı Veri Analiz Araçları**: RAG Chatbot, Python ve .NET Core ile yapay zeka destekli analiz sistemleri
-- **Makine Öğrenmesi Modelleri**: Sınıflandırma ve regresyon projeleri
-
----
-
-### 📬 Benimle İletişime Geçin
-
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alican.sahin.tr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicansahinn/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alicansah1n)
+  <a href="mailto:alican.sahin.tr@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00bcd4" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/alicansahinn/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00bcd4" alt="LinkedIn"/></a>
+  <a href="https://github.com/alicansah1n"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00bcd4" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=alicansah1n&color=00bcd4&style=flat-square&label=views" alt="Profile Views"/>
+</div>
 
 <br/>
 
-**💬 İşbirliği ve proje fikirleri için her zaman açığım!**
+```
+Backend Development  •  AI-Powered Systems  •  Software Quality
+```
 
-![Profile Views](https://komarev.com/ghpvc/?username=alicansah1n&color=00D9FF&style=for-the-badge&label=Profil+Görüntüleme)
+<br/>
+
+<table align="center">
+<tr><td>
+
+**Kurumsal bir şirkette yazılım test süreçleri ve sistem kalitesi üzerine çalışıyorum.**  
+Bunun yanında backend odaklı web uygulamaları ve yapay zeka destekli projeler geliştiriyorum.
+
+`C#` `ASP.NET Core` `SQL Server` `Python` `AI / LLM` `RAG` `React` `TypeScript`
+
+</td></tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+| | Odak Alanlarım |
+|:---:|:---|
+| ⚙️ | **.NET & Backend** — ASP.NET Core MVC, Entity Framework, REST API |
+| 🤖 | **Yapay Zeka** — LLM, RAG, LangChain, OpenAI, Prompt Engineering |
+| 🧪 | **Test & Kalite** — STLC, Otomasyon, JIRA, SQL Validation |
+| 📊 | **Veri & Analiz** — ML, Pandas, Streamlit, Power BI |
 
 </div>
 
----
+<br/>
 
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alicansah1n&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00bcd4&icon_color=1db954&text_color=c9d1d9&ring_color=00bcd4" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicansah1n&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00bcd4&text_color=c9d1d9" height="165"/>
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alicansah1n&theme=react&hide_border=true&background=0d1117&stroke=00bcd4&ring=00bcd4&fire=1db954&currStreakLabel=00bcd4&sideLabels=c9d1d9&dates=555555" width="60%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00bcd4,100:1db954&height=100&section=footer" width="100%"/>
 </div>
