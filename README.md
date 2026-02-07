@@ -39,27 +39,21 @@ Lisans sürecimde **backend geliştirme** ve **yapay zeka destekli sistemler** �
 
 ---
 
-#### 📊 GitHub Analytics
+#### 🛠️ Tools I Use
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alicansah1n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=0891b2&icon_color=6d28d9&text_color=c9d1d9&ring_color=0891b2&include_all_commits=true&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicansah1n&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=0891b2&text_color=c9d1d9&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=alicansah1n&theme=tokyonight&hide_border=true&background=00000000&stroke=1a1b27&ring=0891b2&fire=6d28d9&currStreakLabel=0891b2&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,react,ts,tailwind,vite,docker,git,github,sqlite,selenium&theme=dark&perline=6" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=alicansah1n&theme=react-dark&hide_border=true&area=true&bg_color=00000000&color=0891b2&line=6d28d9&point=ffffff&area_color=0891b2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=alicansah1n&theme=minimal&hide_border=true&area=true&color=0891b2&line=6d28d9&point=0891b2&area_color=0891b2" />
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=alicansah1n&theme=react-dark&hide_border=true&area=true&bg_color=00000000&color=0891b2&line=6d28d9&point=ffffff&area_color=0891b2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alicansah1n/alicansah1n/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alicansah1n/alicansah1n/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/alicansah1n/alicansah1n/output/github-snake-dark.svg" width="95%" />
   </picture>
 </div>
 
