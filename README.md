@@ -10,7 +10,7 @@
 
 [![Gmail](https://img.shields.io/badge/-alican.sahin.tr@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alican.sahin.tr@gmail.com)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-alicansahinn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicansahinn/)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://portfolyom.pages.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://alicansahin.com.tr)
 
 </div>
 
@@ -18,9 +18,9 @@
 
 #### 🧑‍💻 About
 
-Kurumsal bir şirkette **yazılım test süreçleri** ve **sistem kalitesi** üzerine çalışıyorum.  
-Bunun yanında **backend odaklı web uygulamaları** ve **yapay zeka destekli projeler** geliştiriyorum.  
-.NET ekosistemi, AI/LLM teknolojileri ve veri odaklı sistemler üzerinde uzmanlaşıyorum.
+İstanbul Beykent Üniversitesi **Yazılım Mühendisliği** bölümünden Ocak 2026'da mezun oldum.  
+Lisans sürecimde **backend geliştirme** ve **yapay zeka destekli sistemler** üzerine yoğunlaştım.  
+.NET ekosistemi, AI/LLM teknolojileri ve veri odaklı yazılım çözümleri geliştiriyorum.
 
 ---
 
@@ -28,13 +28,12 @@ Bunun yanında **backend odaklı web uygulamaları** ve **yapay zeka destekli pr
 
 <div align="center">
 
-| Backend | AI & Data | Frontend | Tools |
-|:-------:|:---------:|:--------:|:-----:|
-| C# | Python | React | Git |
+| Backend | AI & Data | Frontend | DevOps & Test |
+|:-------:|:---------:|:--------:|:-------------:|
+| C# | Python | React | Git & GitHub |
 | ASP.NET Core | OpenAI / LLM | TypeScript | Docker |
 | Entity Framework | RAG / LangChain | Tailwind CSS | JIRA |
-| SQL Server | Pandas / NumPy | Vite | Selenium |
-| REST API | Streamlit | shadcn/ui | Power BI |
+| SQL Server | ChromaDB | Vite | Selenium |
 
 </div>
 
