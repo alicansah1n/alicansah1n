@@ -2,15 +2,23 @@
 
 <div align="center">
 
-### Merhaba, ben Ali Can 👋
+<h1>Merhaba, ben Ali Can 👋</h1>
 
-**Yazılım Mühendisi** · Backend & Yapay Zeka
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&lines=Yaz%C4%B1l%C4%B1m+M%C3%BChendisi+%C2%B7+Backend+%26+Yapay+Zeka" alt="Typing SVG" />
+</h3>
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/-alican.sahin.tr@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alican.sahin.tr@gmail.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-alicansahinn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicansahinn/)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/-Portfolyo-000?style=flat&logo=vercel&logoColor=white)](https://alicansahin.com.tr)
+<a href="mailto:alican.sahin.tr@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/alicansahinn/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;&nbsp;
+<a href="https://alicansahin.com.tr">
+  <img src="https://img.shields.io/badge/Portfolyo-6d28d9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolyo" />
+</a>
 
 </div>
 
