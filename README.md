@@ -40,23 +40,6 @@ Bunun yanında **backend odaklı web uygulamaları** ve **yapay zeka destekli pr
 
 ---
 
-#### 📌 Featured Projects
-
-<div align="center">
-
-|  | Project | Stack | Status |
-|:---:|:---|:---|:---:|
-| 🤖 | **AI-Powered CV Analysis Platform** — AI ile CV analiz ve aday ön eleme | `React` `Gemini AI` `Supabase` | ✅ |
-| 🏢 | **Enterprise Business Tracking Portal** — Kurumsal distribütör iş takip sistemi | `ASP.NET Core` `SQL Server` `EF Core` | ✅ |
-| 📊 | **RAG Data Analysis Platform** — Doğal dil ile veri sorgulama ve analiz | `Python` `GPT-4` `ChromaDB` `RAG` | ✅ |
-| 🎨 | **TrendStudio AI** — AI ile fotoğraf ve video oluşturma platformu | `React` `Supabase` `Fal.ai` | 🚧 |
-| 🕵️ | **Jira Agent** — AI destekli görev analizi ve risk raporlama | `Python` `OpenAI` `Jira API` | ✅ |
-| 📈 | **ML Research Projects** — Borsa tahmini & şarap kalitesi analizi | `Python` `LSTM` `XGBoost` `CNN` | ✅ |
-
-</div>
-
----
-
 #### 📊 GitHub Analytics
 
 <div align="center">
